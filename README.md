@@ -7,8 +7,6 @@ Saya Jihan Aqilah Hartono dengan NIM 2306827 mengerjakan Tugas Praktikum 7 dalam
 ![image](https://github.com/user-attachments/assets/2d55d941-b443-4412-9717-d74dafa885bf)
 
 ## Penjelasan Alur
-Baik! Berikut adalah penjelasan alur sistem dan penjelasan struktur database dalam bahasa Indonesia:
-
 ### **Penjelasan Alur Sistem**
 
 1. **Tabel `users`**:
